@@ -1,5 +1,5 @@
 import FixedNotification from "@/components/FixedNotification";
-import SignupForm from "@/components/SignUpForm";
+import SignupForm from "@/components/SignupForm";
 
 
 export default function SignUp() {
