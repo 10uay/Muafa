@@ -1,5 +1,5 @@
 import { MagicCard } from "@/components/ui/magic-card";
-import "./card.css";
+import "./Card.css";
 
 export function Card({ content_of_card, number, clasification }) {
   const { theme } = "light";
