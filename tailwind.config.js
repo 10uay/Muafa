@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} **/
 
-require('flowbite/plugin'),
+import flowbite from'flowbite/plugin',
 
 export default {
   darkMode: ["class"],
