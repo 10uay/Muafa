@@ -3,7 +3,7 @@ import Order_info from "./components/Order_info";
 import { useSelector, useState } from "@/utils/Imports";
 import Personal_info from "./components/Personal_info";
 import EmployeeAndClosestPersonInfo from "./components/EmployeeAndClosestPersonInfo";
-import Application_attachments from "./components/application_attachments";
+import Application_attachments from "./components/Application_attachments";
 import Document_attachments from "./components/Document_attachments";
 
 export default function Order() {
